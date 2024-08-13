@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixak&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixak" /> </p>
 
-- 🌱 I’m currently learning **Associate Data Scientist in Python track on data camp**
+🌱 I am currently open for hiring for data scientist or AI developer positions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
