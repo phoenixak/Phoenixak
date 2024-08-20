@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixak&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixak" /> </p>
 
-- 🤝 I’m currently open for hiring for **Data Scientist or Machine learning engineer positions.**
+- 🌟 Open to Opportunities! **I’m currently seeking roles as a Data Scientist or Machine Learning Engineer. With a strong foundation in data analysis, machine learning, and AI, I’m eager to bring my skills to a dynamic team. Let’s connect and explore how I can contribute to your next big project!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
