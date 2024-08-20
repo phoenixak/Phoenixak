@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">An aspiring data scientist from Egypt</h3>
+<h3 align="center">An aspiring data scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixak&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixak" /> </p>
 
-🌱 I am currently open for hiring for data scientist or AI developer positions.
+🌱 I am currently open for hiring for Data Scientist or AI developer positions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
