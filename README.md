@@ -117,8 +117,7 @@ I'm always excited to discuss:
 - **AI Ethics** and responsible AI development
 - **Open Source** contributions and collaborations
 
-**📧 Email**: phoniex199940@gmail.com  
-**📱 Phone**: +201288311023  
+**📧 Email**: phoniex199940@gmail.com   
 **📍 Location**: Cairo, Egypt  
 **🌐 Open to**: Remote opportunities worldwide
 
