@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-Passionate **Data Scientist** and **Machine Learning Engineer** with expertise in developing end-to-end ML solutions. I specialize in transforming complex data into actionable insights and building scalable AI systems that drive business value.
+Passionate **Data Scientist** and **Machine Learning Engineer** with full-stack development expertise. I specialize in building end-to-end ML solutions - from data analysis and model development to production deployment and web application integration.
 
 ```python
 class DataScientist:
@@ -23,15 +23,17 @@ class DataScientist:
         self.name = "Ahmed Khaled"
         self.role = "Data Scientist & ML Engineer"
         self.location = "Cairo, Egypt"
-        self.expertise = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
-        self.passion = "Solving complex problems with AI and data"
+        self.expertise = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Full-Stack Development"]
+        self.passion = "Building end-to-end AI solutions that make impact"
     
     def get_specializations(self):
         return {
-            "predictive_modeling": ["Time Series", "Regression", "Classification"],
+            "ml_engineering": ["Model Development", "MLOps", "Production Deployment"],
+            "data_science": ["Predictive Modeling", "Statistical Analysis", "Data Visualization"],
             "nlp": ["Sentiment Analysis", "Text Summarization", "Q&A Systems"],
             "computer_vision": ["Image Recognition", "Object Detection"],
-            "deployment": ["API Integration", "Scalable Architecture", "MLOps"]
+            "web_development": ["Laravel", "Vue.js", "Django", "API Integration"],
+            "deployment": ["Full-Stack Solutions", "Database Design", "Scalable Architecture"]
         }
 ```
 
@@ -39,6 +41,8 @@ class DataScientist:
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Competent-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Competent-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -61,6 +65,14 @@ class DataScientist:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+### **Web Development & Full-Stack**
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST-API-02569B?style=flat&logo=rest&logoColor=white)
+
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -74,7 +86,8 @@ class DataScientist:
 - **📝 NLP**: Text Processing, Sentiment Analysis, Language Models, Chatbots
 - **👁️ Computer Vision**: Image Classification, Object Detection, Facial Recognition
 - **📊 Data Analysis**: Statistical Analysis, A/B Testing, Hypothesis Testing
-- **⚡ MLOps**: Model Deployment, CI/CD Pipelines, Model Monitoring
+- **🌐 Full-Stack Development**: End-to-end web applications, API integration, database design
+- **⚡ MLOps & Deployment**: Model Deployment, CI/CD Pipelines, Model Monitoring, Production Systems
 
 ## 🏆 Certifications & Achievements
 
@@ -83,7 +96,7 @@ class DataScientist:
 [![ML Engineer](https://img.shields.io/badge/DataCamp-ML_Engineer_Track-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/7c542cee337f553a69ba12495536e233c8c14902)
 
 - 🥇 **Data Scientist Certificate** - *Sep 4, 2024* | ID: DS0029593093497
-- 🥈 **Machine Learning Engineer Track** - *Aug 31, 2024* | 44 Hours
+- 🥈 **Machine Learning Engineer Track** - *Aug 31, 2024* |
 
 ### **HackerRank Verified Certifications**
 [![Software Engineer](https://img.shields.io/badge/HackerRank-Software_Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/b974f182470f)
@@ -110,9 +123,9 @@ class DataScientist:
 ## 🌱 Currently Exploring
 
 - **Advanced NLP**: Transformer architectures and Large Language Models
+- **Modern Web Frameworks**: React.js, Next.js for ML model integration
 - **MLOps**: Advanced deployment strategies and model monitoring
-- **Computer Vision**: Latest developments in image processing and analysis
-- **Cloud AI**: Serverless ML architectures and edge computing
+- **Cloud-Native ML**: Serverless architectures and containerized solutions
 
 ## 💬 Let's Connect!
 
