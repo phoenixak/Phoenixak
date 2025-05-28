@@ -96,7 +96,7 @@ class DataScientist:
 [![ML Engineer](https://img.shields.io/badge/DataCamp-ML_Engineer_Track-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/7c542cee337f553a69ba12495536e233c8c14902)
 
 - 🥇 **Data Scientist Certificate** - *Sep 4, 2024* | ID: DS0029593093497
-- 🥈 **Machine Learning Engineer Track** - *Aug 31, 2024* |
+- 🥈 **Machine Learning Engineer Track** - *Aug 31, 2024*
 
 ### **HackerRank Verified Certifications**
 [![Software Engineer](https://img.shields.io/badge/HackerRank-Software_Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/b974f182470f)
