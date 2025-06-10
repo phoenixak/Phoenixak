@@ -4,7 +4,7 @@
 ### Data Scientist | Machine Learning Engineer | Computer & Control Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phoenixak)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phoniex199940@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.khaled.ali.99@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/phoenixak)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phoenixak&label=Profile%20views&color=0e75b6&style=flat)
@@ -135,7 +135,7 @@ I'm always excited to discuss:
 - **AI Ethics** and responsible AI development
 - **Open Source** contributions and collaborations
 
-**📧 Email**: phoniex199940@gmail.com  
+**📧 Email**: a.khaled.ali.99@gmail.com  
 **📍 Location**: Cairo, Egypt  
 **🌐 Open to**: Remote opportunities worldwide
 
