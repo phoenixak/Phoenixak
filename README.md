@@ -11,7 +11,9 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Phoenixak99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.khaled.ali.99@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=phoenixak&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/dc760204-5f34-4dba-a14e-56ddc036d37d.svg?style=for-the-badge)](https://wakatime.com/@dc760204-5f34-4dba-a14e-56ddc036d37d)
+
+![Profile Views](https://komarev.com/ghpvc/?username=phoenixak&style=for-the-badge&color=0e75b6)
 
 </div>
 
