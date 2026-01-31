@@ -104,11 +104,11 @@ AI music generation serving 50+ users with 2 custom generative models
 ## GitHub Stats
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=phoenixak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=phoenixak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <br/>
+  <img src="./profile/wakatime.svg" alt="WakaTime Stats" />
 </div>
 
 ---
