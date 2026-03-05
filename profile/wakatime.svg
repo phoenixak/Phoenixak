@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="165"
-        viewBox="0 0 495 165"
+        height="90"
+        viewBox="0 0 495 90"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -148,117 +148,7 @@
           transform="translate(0, 55)"
         >
           
-      
-      <mask id="rect-mask">
-      <rect x="25" y="0" width="440.00" height="8" fill="white" rx="5" />
-      </mask>
-      
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="0.00"
-            y="0"
-            width="162.30"
-            height="8"
-            fill="#3572A5"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="162.30"
-            y="0"
-            width="116.00"
-            height="8"
-            fill="#3178c6"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="278.29"
-            y="0"
-            width="80.17"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="358.46"
-            y="0"
-            width="41.93"
-            height="8"
-            fill="#292929"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="400.39"
-            y="0"
-            width="35.61"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="436.00"
-            y="0"
-            width="29.00"
-            height="8"
-            fill="#858585"
-          />
-        
-    
-      <g transform="translate(0, 25)">
-        
-      <g transform="translate(25, 0)">
-        <circle cx="5" cy="6" r="5" fill="#3572A5" />
-        <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Python - 66 hrs 54 mins
-        </text>
-      </g>
-    
-      <g transform="translate(230, 0)">
-        <circle cx="5" cy="6" r="5" fill="#3178c6" />
-        <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          TypeScript - 47 hrs 49 mins
-        </text>
-      </g>
-    
-      <g transform="translate(25, 25)">
-        <circle cx="5" cy="6" r="5" fill="#083fa1" />
-        <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Markdown - 33 hrs 3 mins
-        </text>
-      </g>
-    
-      <g transform="translate(230, 25)">
-        <circle cx="5" cy="6" r="5" fill="#292929" />
-        <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          JSON - 17 hrs 17 mins
-        </text>
-      </g>
-    
-      <g transform="translate(25, 50)">
-        <circle cx="5" cy="6" r="5" fill="#858585" />
-        <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Text - 14 hrs 40 mins
-        </text>
-      </g>
-    
-      <g transform="translate(230, 50)">
-        <circle cx="5" cy="6" r="5" fill="#858585" />
-        <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Other - 11 hrs 56 mins
-        </text>
-      </g>
-    
-      </g>
+      <text x="25" y="11" class="stat bold">User doesn't share publicly detailed code statistics</text>
     
         </g>
       </svg>
