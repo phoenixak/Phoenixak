@@ -4,7 +4,7 @@
 
 **ML Engineer — I ship models to prod, not just notebooks.**
 
-[![Portfolio](https://img.shields.io/badge/phoenixak.me-00D4AA?style=flat-square&logo=About.me&logoColor=white)](https://phoenixakportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/MyPortfolio-00D4AA?style=flat-square&logo=About.me&logoColor=white)](https://phoenixakportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phoenixak)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Phoenixak99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a.khaled.ali.99@gmail.com)
