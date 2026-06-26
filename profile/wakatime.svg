@@ -158,7 +158,7 @@
             data-testid="lang-progress"
             x="0.00"
             y="0"
-            width="139.18"
+            width="139.05"
             height="8"
             fill="#3178c6"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="139.18"
+            x="139.05"
             y="0"
-            width="120.91"
+            width="120.84"
             height="8"
             fill="#3572A5"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="260.09"
+            x="259.90"
             y="0"
-            width="84.71"
+            width="84.70"
             height="8"
             fill="#083fa1"
           />
@@ -186,9 +186,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="344.80"
+            x="344.60"
             y="0"
-            width="51.49"
+            width="51.54"
             height="8"
             fill="#858585"
           />
@@ -196,7 +196,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="396.29"
+            x="396.14"
             y="0"
             width="42.27"
             height="8"
@@ -206,9 +206,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.57"
+            x="438.40"
             y="0"
-            width="26.43"
+            width="26.60"
             height="8"
             fill="#858585"
           />
@@ -240,7 +240,7 @@
       <g transform="translate(230, 25)">
         <circle cx="5" cy="6" r="5" fill="#858585" />
         <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Other - 30 hrs 25 mins
+          Other - 30 hrs 28 mins
         </text>
       </g>
     
@@ -254,7 +254,7 @@
       <g transform="translate(230, 50)">
         <circle cx="5" cy="6" r="5" fill="#858585" />
         <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          Text - 15 hrs 37 mins
+          Text - 15 hrs 42 mins
         </text>
       </g>
     
