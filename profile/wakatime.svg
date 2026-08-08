@@ -158,7 +158,7 @@
             data-testid="lang-progress"
             x="0.00"
             y="0"
-            width="158.67"
+            width="158.72"
             height="8"
             fill="#3178c6"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="158.67"
+            x="158.72"
             y="0"
-            width="106.17"
+            width="106.11"
             height="8"
             fill="#3572A5"
           />
@@ -219,7 +219,7 @@
       <g transform="translate(25, 0)">
         <circle cx="5" cy="6" r="5" fill="#3178c6" />
         <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-          TypeScript - 108 hrs 6 mins
+          TypeScript - 108 hrs 11 mins
         </text>
       </g>
     
