@@ -25,7 +25,9 @@ jobs:
             dist/ink-snake.svg?color_snake=%23141310&color_dots=%23E6E0D3,%23B9B1A1,%236E685D,%232A2722,%23C2341B
 
       - name: Mount it on a paper card
-        run: python tools/paper_snake.py dist/ink-snake.svg
+        run: |
+          sudo chown -R "$(id -u)" dist  # snk runs in Docker as root
+          python tools/paper_snake.py dist/ink-snake.svg
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
