@@ -30,5 +30,5 @@ I started out building websites, then moved into machine learning and data scien
   <br/><br/>
   <img src="https://raw.githubusercontent.com/phoenixak/Phoenixak/output/ink-snake.svg?v=3" alt="Contribution grid in ink, eaten by a vermilion snake" width="100%" />
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=phoenixak&style=flat-square&color=c2341b&label=profile+views" alt="Profile views" />
+  <img src="https://views.fynxforge.com/phoenixak.svg" alt="Profile views" />
 </div>
