@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![ahmed.fynxforge.com](https://img.shields.io/badge/ahmed.fynxforge.com-C2341B?style=flat-square&logo=googlechrome&logoColor=F4F1EA)](https://ahmed.fynxforge.com) [![FynxForge](https://img.shields.io/badge/FynxForge-F4F1EA?style=flat-square&logo=fireship&logoColor=141310)](https://fynxforge.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-F4F1EA?style=flat-square&logo=linkedin&logoColor=141310)](https://linkedin.com/in/phoenixak) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-F4F1EA?style=flat-square&logo=huggingface&logoColor=141310)](https://huggingface.co/Phoenixak99) [![Email](https://img.shields.io/badge/Email-F4F1EA?style=flat-square&logo=gmail&logoColor=141310)](mailto:a.khaled.ali.99@gmail.com)
+[![ahmed.fynxforge.com](https://img.shields.io/badge/ahmed.fynxforge.com-C2341B?style=flat-square&logo=googlechrome&logoColor=F4F1EA)](https://ahmed.fynxforge.com) [![FynxForge](https://img.shields.io/badge/FynxForge-F4F1EA?style=flat-square&logo=fireship&logoColor=141310)](https://fynxforge.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-F4F1EA?style=flat-square&logo=linkedin&logoColor=141310)](https://linkedin.com/in/phoenixak) [![Email](https://img.shields.io/badge/Email-F4F1EA?style=flat-square&logo=gmail&logoColor=141310)](mailto:a.khaled.ali.99@gmail.com)
 
 </div>
 
@@ -25,16 +25,14 @@ I started out building websites, then moved into machine learning and data scien
 - **[Enterprise RAG System](https://github.com/phoenixak/RAG-System)**: retrieval-augmented QA over company documents. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/RAG-System-Demo)
 - **[NLP Analysis Pipeline](https://github.com/phoenixak/Analyzing-Car-Reviews-with-LLMs)**: analysing car reviews with LLMs. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/car-reviews-analyzer)
 
-### 四 &nbsp;Ink on paper
-
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" alt="Top languages" />
+  <img src="./profile/stats.svg" alt="GitHub stats" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top languages" height="180" />
   <br/>
   <img src="./profile/wakatime.svg" alt="WakaTime stats" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/phoenixak/Phoenixak/output/ink-snake.svg" alt="Contribution grid in ink, eaten by a vermilion snake" width="100%" />
   <br/>
   <a href="https://wakatime.com/@dc760204-5f34-4dba-a14e-56ddc036d37d"><img src="https://wakatime.com/badge/user/dc760204-5f34-4dba-a14e-56ddc036d37d.svg?style=flat-square" alt="WakaTime" /></a>
-  <img src="https://komarev.com/ghpvc/?username=phoenixak&style=flat-square&color=c2341b&label=visitors" alt="Profile views" />
+  <img src="https://hits.sh/github.com/phoenixak.svg?style=flat-square&label=visitors&color=C2341B&labelColor=141310" alt="Profile views" />
 </div>
