@@ -5,5 +5,5 @@
   "main": "worker.js",
   "compatibility_date": "2026-10-01",
   "routes": [{ "pattern": "views.fynxforge.com", "custom_domain": true }],
-  "d1_databases": [{ "binding": "DB", "database_name": "profile-views", "database_id": "REPLACE_AFTER_D1_CREATE" }]
+  "d1_databases": [{ "binding": "DB", "database_name": "profile-views", "database_id": "288d710c-17a1-457d-b14f-7ae8b6d03780" }]
 }

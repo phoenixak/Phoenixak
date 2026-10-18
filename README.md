@@ -28,7 +28,7 @@ I started out building websites, then moved into machine learning and data scien
 <div align="center">
   <img src="./profile/ink-stats.svg" alt="GitHub numbers and WakaTime coding time" width="100%" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/phoenixak/Phoenixak/output/ink-snake.svg?v=2" alt="Contribution grid in ink, eaten by a vermilion snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/phoenixak/Phoenixak/output/ink-snake.svg?v=3" alt="Contribution grid in ink, eaten by a vermilion snake" width="100%" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=phoenixak&style=flat-square&color=c2341b&label=profile+views" alt="Profile views" />
 </div>

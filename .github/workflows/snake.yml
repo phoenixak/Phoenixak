@@ -5,7 +5,7 @@ on:
     - cron: "0 6 * * *"  # Daily
   workflow_dispatch:
   push:
-    paths: [.github/workflows/snake.yml]
+    paths: [.github/workflows/snake.yml, tools/paper_snake.py]
 
 jobs:
   snake:
@@ -14,12 +14,18 @@ jobs:
       contents: write
 
     steps:
-      # contribution grid as ink on paper: empty days are paper, busy days are black ink, the snake is the vermilion seal
+      - uses: actions/checkout@v4
+
+      # contribution grid as ink on paper: quiet days are paper, busier days darker ink,
+      # the busiest are vermilion; the snake is a brush stroke of black ink
       - uses: Platane/snk@v3
         with:
           github_user_name: phoenixak
           outputs: |
-            dist/ink-snake.svg?color_snake=%23C2341B&color_dots=%23E4DED1,%23C9C2B3,%238F887A,%234A463F,%23141310
+            dist/ink-snake.svg?color_snake=%23141310&color_dots=%23E6E0D3,%23B9B1A1,%236E685D,%232A2722,%23C2341B
+
+      - name: Mount it on a paper card
+        run: python tools/paper_snake.py dist/ink-snake.svg
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v4
