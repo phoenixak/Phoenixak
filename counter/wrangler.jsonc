@@ -1,0 +1,9 @@
+// Deploy: cd counter && npx wrangler deploy
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "profile-views",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "routes": [{ "pattern": "views.fynxforge.com", "custom_domain": true }],
+  "d1_databases": [{ "binding": "DB", "database_name": "profile-views", "database_id": "REPLACE_AFTER_D1_CREATE" }]
+}
