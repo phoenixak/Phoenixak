@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![ahmed.fynxforge.com](https://img.shields.io/badge/ahmed.fynxforge.com-C2341B?style=flat-square&logo=googlechrome&logoColor=F4F1EA)](https://ahmed.fynxforge.com) [![FynxForge](https://img.shields.io/badge/FynxForge-141310?style=flat-square&logo=fireship&logoColor=F4F1EA)](https://fynxforge.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-141310?style=flat-square&logo=linkedin&logoColor=F4F1EA)](https://linkedin.com/in/phoenixak) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-141310?style=flat-square&logo=huggingface&logoColor=F4F1EA)](https://huggingface.co/Phoenixak99) [![Email](https://img.shields.io/badge/Email-141310?style=flat-square&logo=gmail&logoColor=F4F1EA)](mailto:a.khaled.ali.99@gmail.com)
+[![ahmed.fynxforge.com](https://img.shields.io/badge/ahmed.fynxforge.com-C2341B?style=flat-square&logo=googlechrome&logoColor=F4F1EA)](https://ahmed.fynxforge.com) [![FynxForge](https://img.shields.io/badge/FynxForge-F4F1EA?style=flat-square&logo=fireship&logoColor=141310)](https://fynxforge.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-F4F1EA?style=flat-square&logo=linkedin&logoColor=141310)](https://linkedin.com/in/phoenixak) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-F4F1EA?style=flat-square&logo=huggingface&logoColor=141310)](https://huggingface.co/Phoenixak99) [![Email](https://img.shields.io/badge/Email-F4F1EA?style=flat-square&logo=gmail&logoColor=141310)](mailto:a.khaled.ali.99@gmail.com)
 
 </div>
 
@@ -14,13 +14,11 @@ I started out building websites, then moved into machine learning and data scien
 
 ### 二 &nbsp;Selected work
 
-| | |
-|---|---|
-| **[AdviceBuddy.ai](https://ahmed.fynxforge.com/work/advicebuddy)** | An AI mental-wellness companion with crisis handling built in |
-| **[SaudizationMeter](https://ahmed.fynxforge.com/work/saudizationmeter)** | A Nitaqat compliance SaaS for Saudi employers |
-| **[KryticalStyle](https://ahmed.fynxforge.com/work/kryticalstyle)** | Headless e-commerce for a Saudi casual-luxury label *(FynxForge)* |
-| **[Clinical Monitoring Platform](https://ahmed.fynxforge.com/work/clinical-platform)** | Preventive-medicine HealthTech, confidential *(FynxForge)* |
-| **[Ramy Wakem](https://ahmed.fynxforge.com/work/ramywakem)** | The website for an accounting and tax firm |
+- **[AdviceBuddy.ai](https://ahmed.fynxforge.com/work/advicebuddy)**: An AI mental-wellness companion with crisis handling built in
+- **[SaudizationMeter](https://ahmed.fynxforge.com/work/saudizationmeter)**: A Nitaqat compliance SaaS for Saudi employers
+- **[KryticalStyle](https://ahmed.fynxforge.com/work/kryticalstyle)**: Headless e-commerce for a Saudi casual-luxury label *(FynxForge)*
+- **[Clinical Monitoring Platform](https://ahmed.fynxforge.com/work/clinical-platform)**: Preventive-medicine HealthTech, confidential *(FynxForge)*
+- **[Ramy Wakem](https://ahmed.fynxforge.com/work/ramywakem)**: The website for an accounting and tax firm
 
 ### 三 &nbsp;Open-source ML
 
@@ -31,7 +29,6 @@ I started out building websites, then moved into machine learning and data scien
 
 <div align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" />
-  <br/>
   <img src="./profile/top-langs.svg" alt="Top languages" />
   <br/>
   <img src="./profile/wakatime.svg" alt="WakaTime stats" />
