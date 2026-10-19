@@ -22,8 +22,9 @@ I started out building websites, then moved into machine learning and data scien
 
 ### 三 &nbsp;Open-source ML
 
-- **[Enterprise RAG System](https://github.com/phoenixak/RAG-System)**: retrieval-augmented QA over company documents. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/RAG-System-Demo)
-- **[NLP Analysis Pipeline](https://github.com/phoenixak/Analyzing-Car-Reviews-with-LLMs)**: analysing car reviews with LLMs. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/car-reviews-analyzer)
+- **[Car Review Intelligence](https://github.com/phoenixak/Analyzing-Car-Reviews-with-LLMs)**: a ModernBERT fine-tuned on reviews written and blind-checked by a local Qwen3-8B; rates 8 aspects per review, 0.92 macro-F1 on unseen cars, 13× faster than the old pipeline. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/car-reviews-analyzer) · [Model ↗](https://huggingface.co/Phoenixak99/car-review-absa)
+- **[RAG System](https://github.com/phoenixak/RAG-System)**: hybrid search + cross-encoder reranking + Qwen3-1.7B on CPU, with a citation for every fact; 98% right source first, 100% correct citations in its eval. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/RAG-System-Demo)
+- **[Two-stage Movie Recommender](https://github.com/phoenixak/ml-training-serving-pipeline)**: two-tower retrieval + DLRM ranking on MovieLens-32M, served with ONNX Runtime in ~2 ms; 3.7× popularity and 2.1× item-kNN on Recall@10. [Live demo ↗](https://huggingface.co/spaces/Phoenixak99/movie-recommender)
 
 <div align="center">
   <img src="./profile/ink-stats.svg" alt="GitHub numbers and WakaTime coding time" width="100%" />
